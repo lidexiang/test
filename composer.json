@@ -1,0 +1,18 @@
+{
+    "name": "lidexiang/wxwork-finance-sdk",
+    "description": "企业微信会话-sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {},
+        "classmap": [
+            "wxwork-finance-sdk/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "liwentan",
+            "email": "276370989@qq.com"
+        }
+    ],
+    "require": {}
+}
